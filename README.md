@@ -1,5 +1,5 @@
 # SORNITOOL-Free
-# This tool can be Open repak pubgm or peace elite.
+## This tool can be Open repak pubgm or peace elite.
 
 ## Termux installation
 ```
