@@ -1,26 +1,25 @@
-#无SORNITOOL
+# SORNITOOL-Free
+# This tool can be Open repak pubgm or peace elite.
 
-#此工具可以是打开Repak pubgm或和平精英。
-
-##Termux安装
+## Termux installation
 ```
-包装更新&&包装升级
+pkg update && pkg upgrade 
 ```
 ```
-包装安装git
+pkg install git
 ```
 ```
 termux-setup-storage
 ```
-##克隆映像存储库
+## Clone the image repository
 ```
-吉特克隆https://github.com/Rnaios/Sornitool.git
-```
-```
-CD RN
+git clone https://github.com/Rnaios/Sornitool.git
 ```
 ```
-chmod+x设置
+cd RN
+```
+```
+chmod +x setup
 ```
 ```
 ./setup
