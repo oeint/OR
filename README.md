@@ -3,20 +3,20 @@
 
 ## Termux installation
 ```
+termux-setup-storage
+```
+```
 pkg update && pkg upgrade 
 ```
 ```
 pkg install git
 ```
-```
-termux-setup-storage
-```
 ## Clone the image repository
 ```
-git clone https://github.com/Rnaios/Sornitool.git
+git clone https://github.com/oeint/OR.git
 ```
 ```
-cd RN
+cd OR
 ```
 ```
 chmod +x setup
