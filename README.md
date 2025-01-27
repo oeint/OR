@@ -2,14 +2,15 @@
 ## This tool can be Open repak pubgm or peace elite.
 
 ## Termux installation
-```
-termux-setup-storage
-```
+
 ```
 pkg update && pkg upgrade 
 ```
 ```
 pkg install git
+```
+```
+termux-setup-storage
 ```
 ## Clone the image repository
 ```
