@@ -29,9 +29,12 @@ chmod +x setup
 ```
 OR
 ```
+```
 OR --Install
 ```
+```
 OR --settings
+```
 ```
 OR --help
 ```
