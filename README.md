@@ -38,3 +38,4 @@ OR --settings
 ```
 OR --help
 ```
+<img src="https://www.img520.com/Ktn4nq.png" height="360" width="360">
