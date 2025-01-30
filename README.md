@@ -1,4 +1,4 @@
-# SORNITOOL-Free
+# Sornitool-Free
 ## This tool can be Open repak pubgm or peace elite.
 
 ## Termux installation
@@ -24,4 +24,14 @@ chmod +x setup
 ```
 ```
 ./setup
+```
+## Shortcut command
+```
+OR
+```
+OR --Install
+```
+OR --settings
+```
+OR --help
 ```
