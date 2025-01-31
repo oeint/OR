@@ -1,7 +1,7 @@
 # Sornitool-Free
 ## This tool can be Open repak pubgm or peace elite.
 
-## Termux installation
+## Installation tool
 
 ```
 pkg update && pkg upgrade 
@@ -12,7 +12,6 @@ pkg install git
 ```
 termux-setup-storage
 ```
-## Clone the image repository
 ```
 git clone https://github.com/oeint/OR.git
 ```
@@ -25,20 +24,20 @@ chmod +x setup
 ```
 ./setup
 ```
-## Shortcut command
-Quickly start the tool
+## fast command
+quickly start the tool
 ```
 OR
 ```
-Update or install tools
+update or install tools
 ```
 OR --Install
 ```
-Open the default settings
+open the default settings
 ```
 OR --settings
 ```
-Want to get help
+want to get help
 ```
 OR --help
 ```
