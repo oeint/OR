@@ -1,5 +1,5 @@
 # Sornitool-Free
-## This tool can be Open repak pubgm or peace elite.
+## gm rein packaged data stream editing tool.
 
 ## Installation tool
 
@@ -25,19 +25,19 @@ chmod +x setup
 ./setup
 ```
 ## fast command
-quickly start the tool
+1.quickly start the tool
 ```
 OR
 ```
-update or install tools
+2.update or install tools
 ```
 OR --Install
 ```
-open the default settings
+3.open the default settings
 ```
 OR --settings
 ```
-want to get help
+4.want to get help
 ```
 OR --help
 ```
