@@ -1,4 +1,4 @@
-<img src="https://www.img520.com/3z4WhS.png" alt="Welcome_2501.png" title="Welcome_2501.png" />
+<img src="https://www.img520.com/AquyTd.png" alt="Welcome_2501.png" title="Welcome_2501.png" />
 
 # Sornitool-Free
 
@@ -50,7 +50,7 @@ OR --help
 
 1.This is a free tool, you can use it freely, but please follow the GPL protocol!
 
-2.Follow the GPL protocol (http://www.opensource.org/licens/gpl-2.0)
+2.Follow the GPL protocol(http://www.opensource.org/licens/gpl-2.0)
 
 3.All functions are learned and communicated. Do not commercial use, such as user accidents, intentional operations, unintentional operations, etc. should be borne by the user!
 
